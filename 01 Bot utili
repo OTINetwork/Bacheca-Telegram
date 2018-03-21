@@ -3,46 +3,82 @@
 
 1️⃣ UTILITY 🛠
 
+▪️Multi funzioni
+@FunctionsRobot (Short link, rinomina file, ecc..)
 ▪️Guida TV 
 @programmitv_bot
 ▪️E-mail su Telegram
 @gmailbot (reindirizza account google) 
 @etlgr_bot (nuovo indirizzo email) 
+@DropmailBot
 ▪️Crea un URL breve
 @ShortUrlBot 
+@shorturl_googl_bot
+@shrnamebot
+@LinkGeneratorBot
+▪️ Caricare ed archiviare file
+@DriveItBot caricare file su Google Drive
+@filetobot crea un archivio dei tuoi file sul Cloud telegram separandoli in categorie
 ▪️Traccia le tue spedizioni 
 @trackbot
-▪️Traccia le variazioni di prezzo dei tuoi prodotti su Amazon
-@keepa_bot
+▪️ Amazon
+@AmazonGlobalBot
+@keepa_bot Traccia le variazioni di prezzo dei tuoi prodotti su Amazon
 ▪️Funzione Shazam-like
 @YaMelodyBot
 ▪️Legge i QrCode
 @qrcrbot
 @QrBot
 ▪️Converte in Pdf
-@topdf_bot
+@topdf_bot Converte file di testo/foto in PDF e PDF in jpg
 ▪️Estrae il testo dalle immagini (OCR)
 @PhotosetterBot
 @transcriber_bot (anche da audio)
-▪️Ricerche Inline su Google
+▪️ Ricerca su Wikipedia
+@wiki
+▪️ Ricerca su Google
 @googledebot
+@lmgtfy_bot (insegna a cercare su google)
+▪️@GoogramBot
+▪️ Ricerca immagini
+@ImageBot
+@googleimgbot
+@bing
+@pic
+▪️ Ricerca GIF
+@gif
+▪️ Ricerca posti e luoghi
+@foursquare (ricerca posti nelle tue vicinanze)
+@tgmapbot (indica la distanza tra te e una destinazione)
 ▪️Converte sequenze di Immagini in Gif
 @GifMaster_bot
 ▪️Converte Video o parti di Video in Gif
 @vgifbot
 ▪️Mette frasi su Gif riconoscendo parole chiave o anche sopra tue foto
 @guggybot
-▪️Bot associato al più famoso sito di traduzione automatica Russo
-@YTranslateBot
+▪️Tradurre lingue
+@TranslationChatBot
+@YTranslateBot (associato al più famoso sito di traduzione automatica Russo)
+@a8bot
+@interpretbot
 ▪️Scarica video/audio da Youtube
 @utubebot
 @YTAudioBot
 @u2bu_mp3_bot (anche inline)
+@YoutubeConvertBot
+▪️ Ricerca video su YouTube
+@vid
+@youtube
 ▪️Segui i video di YouTube su Telegram
 @youtube_subs_watcher_bot
 @ytWatchBot
+▪️ Utily musicali
+@AlbumCoverFinderBot Cerca le copertine dei tuoi album musicali preferiti
+@audiokeychainbot Riconosce la chiave musicale e i battiti al minuto di una canzone
 ▪️Scarica video dai Social
 @SaveVideoBot
+@video_dl_bot
+@AnySaveBot
 ▪️ Gestisce i promemoria
 @SkeddyBot
 ▪️Blocco note
@@ -50,10 +86,14 @@
 @Writepadbot
 ▪️Lista della spesa
 @Grocerylistbot
+▪️Lista cose da fare
+@dotobot 
+@do_itBot reminder delle cose da fare
 ▪️Codice fiscale
 @codicefiscalebot
 ▪️Televideo
 @televideobot
+@televideo_bot (invia una pagina scelta del televideo)
 ▪️Notifica appuntamenti
 @Deloreanbot
 ▪️ Notifica chiamate
@@ -61,12 +101,21 @@
 ▪️Taglia Mp3, converti in .ogg
 @mp3toolsbot
 ▪️E-book Reader (in Telegram)
-@bookinatorbot
+@bookinator_bot
 ▪️Filtri immagini
 @prismabot
 @icon8bot
+▪️Host immagini
+@ImageUploadBot (ridimensiona, carica e genera un Link per ogni foto)
 ▪️Rinomina i file 
 @file_rename_bot
+▪️ Converte il testo in immagini
+@segoeuibot
+
+🔹🔹 Utility messaggi: 
+@InlineKBot (inserisce tastiere inline)
+@countdwbot (countdown spoiler)
+@spoilerobot / @NoSpoilersBot / @spoibot/@Spoilingbot (tasto antispoiler)
 
 2️⃣INERENTI A TELEGRAM 🔵
 
@@ -77,9 +126,15 @@
 @markdownbot
 @TgTextBot
 @mdtohtmlbot (converte markdown in html) 
+@printfbot
+@bold
 🔹 Sticker pack
 @NewStickerOptimizerBot (converte ed ottimizza foto nel giusto formato per creare bellissimi sticker)
+@Stickerizerbot (crea sticker tramite inline)
+@sticker (ricerca Sticker per emoji)
+@guggystickerbot crea sticker con testo personalizzato
 @RateStickerBot (ricerca pack di sticker)
+@StickerReceiverBot ricerca sticker dal noto canale @TGSticker (puoi anche chiedere la pubblicazione dei tuoi Pack!)
 @MyPackBot
 🔹Temi Telegram
 @ThemesPorterBot
@@ -116,6 +171,8 @@
 @chatbridgebot
 🔹Banna dal gruppo chi posta i Link a canali e gruppi
 @newantispambot
+🔹 Anti-Spam
+@daysandbox_bot
 🔹Crea quiz per i tuoi amici
 @QuidizBot
 🔹ID utenti
@@ -123,33 +180,41 @@
 @usinfobot
 @userinfobot
 @JsonDumpbot (Json completo di un messaggio)
+@ShowJsonBot
 @getidsbot (id ed info completi su utenti e canali)
 🔹Genera un URL per un file da condividere su Telegram
 @tlgurbot
 @filesbot
+@TGhost_bot
+@tinystash_bot
 🔹Upload dei file su Telegram tramite URL
-@urluploadbot 
+@uploadbot 
 🔹 Conversione Link per Instant View
 @chotamreaderbot
 🔹 Converte le GIF in videomessaggi circolari
 @Telescopybot
-
-🔹🔹 Utility messaggi: 
-@InlineKBot (inserisce tastiere inline)
-@countdwbot (countdown spoiler)
-@spoilerobot / @NoSpoilersBot / @spoibot (tasto antispoiler)
 
 🔹🔹Miscellaneous Telegram: 
 @TopCanaliBot (il tuo canale in classifica nazionale) 
 @TopSupergruppiBot (il tuo gruppo in classifica nazionale) 
 @PosizioniTelegramBot (classifica Telegram sugli app store nazionali) 
 @AppsTelegramBot (fornisce gli apk di tutti i Client Telegram disponibili)
+🔹 Store
+@storebot (Store dove cercare bot)
+@tchannelsbot (Store dove cercare canali)
 
- 3️⃣INFO E TEMPO LIBERO 🎧
+3️⃣INFO E TEMPO LIBERO 🎧
 
 🔺Scaricare Musica in mp3
 @scloudbot
 @vkmusicbot / @vkm_bot
+@music (cerca musica classica)
+@GetMusicBot (download musica)
+@DiscogsBot (cerca discografie su discogs.com)
+🔺 Creare meme
+@memingbot (crea meme in 5 secondi)
+🔺 Scaricare ebook
+@eBukBot (download di ebook in formati ebook/kindle/pdf) 
 🔺Previsioni meteo
 @weatherman_bot
 @weatherbot
@@ -179,4 +244,6 @@
 🔸 Modding dispositivi Oneplus
 @OneplusOneUtilityBot
 
-<i>Aggiornato al 09/03/2018</i>
+<i>I bot che non terminano con 'bot' sono Bot Ufficiali di Telegram.</i>
+
+<b>Aggiornato al 17/03/2018</b>
