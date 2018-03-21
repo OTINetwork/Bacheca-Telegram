@@ -76,6 +76,7 @@
 @chelpbot
 @markdownbot
 @TgTextBot
+@nboldbot
 @mdtohtmlbot (converte markdown in html) 
 🔹 Sticker pack
 @NewStickerOptimizerBot (converte ed ottimizza foto nel giusto formato per creare bellissimi sticker)
@@ -103,7 +104,7 @@
 @pollbot
 🔹Amministra i gruppi 
 @ControlPanelGroupBot
-@grouphelpbot
+@GroupHelpBot
 @GroupButler_bot
 @Samus_Aran
 🔹Statistiche Gruppi
@@ -114,6 +115,7 @@
 @chatfuelbot
 🔹Fa comunicare utenti segnalati
 @chatbridgebot
+@Limitatibot
 🔹Banna dal gruppo chi posta i Link a canali e gruppi
 @newantispambot
 🔹Crea quiz per i tuoi amici
