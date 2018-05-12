@@ -3,6 +3,8 @@
 
 1️⃣ UTILITY 🛠
 
+▪️ Convertire file
+@newfileconverterbot (supporta anche vocali di WhatsApp e videomessaggi telegram)
 ▪️Multi funzioni
 @FunctionsRobot (Short link, rinomina file, ecc..)
 ▪️Guida TV 
@@ -66,6 +68,7 @@
 @YTAudioBot
 @u2bu_mp3_bot (anche inline)
 @YoutubeConvertBot
+@AudioTubeBot
 ▪️ Ricerca video su YouTube
 @vid
 @youtube
@@ -125,7 +128,6 @@
 @chelpbot
 @markdownbot
 @TgTextBot
-@nboldbot
 @mdtohtmlbot (converte markdown in html) 
 @printfbot
 @bold
@@ -157,9 +159,10 @@
 @vote (semplice e veloce)
 @like (semplice e veloce)
 @pollbot
+@voteLT_bot (anche multi risposta e con opzione per l'anonimato)
 🔹Amministra i gruppi 
 @ControlPanelGroupBot
-@GroupHelpBot
+@grouphelpbot
 @GroupButler_bot
 @Samus_Aran
 🔹Statistiche Gruppi
@@ -170,7 +173,6 @@
 @chatfuelbot
 🔹Fa comunicare utenti segnalati
 @chatbridgebot
-@Limitatibot
 🔹Banna dal gruppo chi posta i Link a canali e gruppi
 @newantispambot
 🔹 Anti-Spam
@@ -183,6 +185,7 @@
 @userinfobot
 @JsonDumpbot (Json completo di un messaggio)
 @ShowJsonBot
+@returnjsonbot
 @getidsbot (id ed info completi su utenti e canali)
 🔹Genera un URL per un file da condividere su Telegram
 @tlgurbot
@@ -245,7 +248,9 @@
 @ClassicPokemonbot
 🔸 Modding dispositivi Oneplus
 @OneplusOneUtilityBot
+🔸 Scaricare anime e manga
+@AnimeArchiveBot
 
 <i>I bot che non terminano con 'bot' sono Bot Ufficiali di Telegram.</i>
 
-<b>Aggiornato al 17/03/2018</b>
+<b>Aggiornato al 15/04/2018</b>
