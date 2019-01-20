@@ -5,6 +5,7 @@
 
 ▪️ Convertire file
 @newfileconverterbot (supporta anche vocali di WhatsApp e videomessaggi telegram)
+@to_kindle_bot converte e carica gli ebooks sul proprio kindle
 ▪️Multi funzioni
 @FunctionsRobot (Short link, rinomina file, ecc..)
 ▪️Guida TV 
@@ -15,7 +16,6 @@
 @DropmailBot
 ▪️Crea un URL breve
 @ShortUrlBot 
-@shorturl_googl_bot
 @shrnamebot
 @LinkGeneratorBot
 ▪️ Caricare ed archiviare file
@@ -30,7 +30,6 @@
 @YaMelodyBot
 ▪️Legge i QrCode
 @qrcrbot
-@QrBot
 ▪️Converte in Pdf
 @topdf_bot Converte file di testo/foto in PDF e PDF in jpg
 ▪️Estrae il testo dalle immagini (OCR)
@@ -40,7 +39,6 @@
 @wiki
 ▪️ Ricerca su Google
 @googledebot
-@lmgtfy_bot (insegna a cercare su google)
 ▪️@GoogramBot
 ▪️ Ricerca immagini
 @ImageBot
@@ -61,7 +59,6 @@
 ▪️Tradurre lingue
 @TranslationChatBot
 @YTranslateBot (associato al più famoso sito di traduzione automatica Russo)
-@a8bot
 @interpretbot
 ▪️Scarica video/audio da Youtube
 @utubebot
@@ -69,19 +66,21 @@
 @u2bu_mp3_bot (anche inline)
 @YoutubeConvertBot
 @AudioTubeBot
+@scdlbot
 ▪️ Ricerca video su YouTube
-@vid
-@youtube
+@vid (momentanemente non funzionante in inline)
+@youtube (momentanemente non funzionante in inline)
 ▪️Segui i video di YouTube su Telegram
-@youtube_subs_watcher_bot
 @ytWatchBot
 ▪️ Utily musicali
-@AlbumCoverFinderBot Cerca le copertine dei tuoi album musicali preferiti
-@audiokeychainbot Riconosce la chiave musicale e i battiti al minuto di una canzone
+@AlbumCoverFinderBot (Cerca le copertine dei tuoi album musicali preferiti)
+@audiokeychainbot (Riconosce la chiave musicale e i battiti al minuto di una canzone)
 ▪️Scarica video dai Social
-@SaveVideoBot
-@video_dl_bot
+@vid_dlbot
 @AnySaveBot
+@Regrambot ricevere feed e scaricare media da instagram
+@tdl_bot
+@roanuedhuru_bot
 ▪️ Gestisce i promemoria
 @SkeddyBot
 ▪️Blocco note
@@ -97,8 +96,6 @@
 ▪️Televideo
 @televideobot
 @televideo_bot (invia una pagina scelta del televideo)
-▪️Notifica appuntamenti
-@Deloreanbot
 ▪️ Notifica chiamate
 @FreeSegreteriaBot
 ▪️Taglia Mp3, converti in .ogg
@@ -106,12 +103,11 @@
 ▪️E-book Reader (in Telegram)
 @bookinator_bot
 ▪️Filtri immagini
-@prismabot
 @icon8bot
 ▪️Host immagini
 @ImageUploadBot (ridimensiona, carica e genera un Link per ogni foto)
 ▪️Rinomina i file 
-@file_rename_bot
+@RenameBot
 ▪️ Converte il testo in immagini
 @segoeuibot
 
@@ -211,22 +207,16 @@
 3️⃣INFO E TEMPO LIBERO 🎧
 
 🔺Scaricare Musica in mp3
-@scloudbot
-@vkmusicbot / @vkm_bot
+@vkm_bot
 @music (cerca musica classica)
-@GetMusicBot (download musica)
 @DiscogsBot (cerca discografie su discogs.com)
+@DeezloaderRMX_bot (Scarica canzoni, album e playlist da spotify)
 🔺 Creare meme
 @memingbot (crea meme in 5 secondi)
 🔺 Scaricare ebook
 @eBukBot (download di ebook in formati ebook/kindle/pdf) 
 🔺Previsioni meteo
-@weatherman_bot
 @weatherbot
-@meteovunque_bot
-🔺Dizionari
-@exactlyappbot
-@dictionbot
 🔺Feed reader
 @feed_reader_bot
 @thefeedreaderbot
@@ -246,6 +236,8 @@
 🔸 Rom, emulatori Pokémon
 @greniggabot
 @ClassicPokemonbot
+🔸 Apk Android
+@ApkManagerBot
 🔸 Modding dispositivi Oneplus
 @OneplusOneUtilityBot
 🔸 Scaricare anime e manga
@@ -253,4 +245,4 @@
 
 <i>I bot che non terminano con 'bot' sono Bot Ufficiali di Telegram.</i>
 
-<b>Aggiornato al 15/04/2018</b>
+<b>Aggiornato al 20/01/2019</b>
